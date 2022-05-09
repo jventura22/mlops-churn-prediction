@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "name": "iris.csv",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2022-05-09T10:38:15Z",
+    "created": 1652092695592,
+    "asset_id": "data_asset.iriscsv",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "text/csv"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "iris.csv",
+      "mime": "text/csv",
+      "object_key": "data_asset/iris.csv",
+      "object_key_is_read_only": true,
+      "created_at": "2022-05-09T10:38:16Z",
+      "id": "4eeb6df0-ea53-45e5-ac26-5aebf39df6a8",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
